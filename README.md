@@ -1,2 +1,2 @@
 # CODSOFT
-CodSoft Python development internship TASK1 To-Do List ( September-October 2023)
+CodSoft Python programming internship TASK1 To-Do List ( September-October 2023)
